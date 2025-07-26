@@ -14,7 +14,7 @@ A custom-built HTTP Web Server developed using Java Socket Programming and Execu
 
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java 8+
 - Socket Programming
